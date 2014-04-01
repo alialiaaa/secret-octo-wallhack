@@ -1,2 +1,55 @@
-secret-octo-wallhack
-====================
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancel_title</key>
+	<string>Cancel</string>
+	<key>close_title</key>
+	<string>Close</string>
+	<key>config_hasSocialNetworkSharing</key>
+	<string>1</string>
+	<key>config_locale_identifier</key>
+	<string>en_US</string>
+	<key>error_title</key>
+	<string>Error</string>
+	<key>known_login_urls</key>
+	<string>https://www.amazon.com/gp/aw/si.html
+https://www.amazon.com/ap/signin</string>
+	<key>months_abbreviated</key>
+	<string>Jan
+فبراير
+مارس
+أبريل
+قد
+يونيو
+يوليو
+أغسطس
+سبتمبر
+أكتوبر
+نوفمبر
+ديسمبر</string>
+	<key>ok_title</key>
+	<string>OK</string>
+	<key>refmarkers_clickstream_host</key>
+	<string>fls-na.amazon.com</string>
+	<key>share_email</key>
+	<string>E-mail</string>
+	<key>share_facebook</key>
+	<string>Facebook</string>
+	<key>share_sms</key>
+	<string>Text</string>
+	<key>share_title</key>
+	<string>Share</string>
+	<key>share_twitter</key>
+	<string>Twitter</string>
+	<key>weekdays_abbreviated</key>
+	<string>Sun
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat</string>
+</dict>
+</plist>
+
